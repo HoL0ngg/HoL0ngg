@@ -1,43 +1,50 @@
 # Xin chào, mình là Hồ Hoàng Long 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoL0ngg&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-Một lập trình viên Full-stack đam mê xây dựng các ứng dụng website hữu ích và có trải nghiệm người dùng tốt.
+Mình là sinh viên năm 3 chuyên ngành Kỹ thuật Phần mềm tại Đại học Sài Gòn (SGU). 
+Mình có niềm đam mê lớn với giải thuật, lập trình thi đấu và hiện đang tập trung phát triển theo định hướng Lập trình Web.
 <br>
 
-* 🔭 Mình đang phát triển một website thương mại điện tử.
-* 🌱 Mình đang học thêm về AWS và các kĩ thuật AI để áp dụng vào dự án.
-* 👯 Mình mong muốn được hợp tác trong các dự án React/Node.js.
-* 💬 Hãy hỏi mình về Java/c++.
-* 📫 Cách liên lạc với mình: hohoanglong2508@gmail.com
+* 💻 Mình có thế mạnh về giải thuật, thường xuyên luyện tập trên **Codeforces, LeetCode, và VNOJ**.
+* 🔭 Mình đang phát triển các dự án Web (sử dụng React/Node.js) để xây dựng kỹ năng.
+* 🌱 Mình đang tìm hiểu và có định hướng học thêm về **Mobile** hoặc **Game Development** trong tương lai.
+* 💬 Hãy hỏi mình về: **Giải thuật, C++, Java, hoặc JavaScript**.
+* 📫 Cách liên lạc với mình: **hohoanglong2508@gmail.com**
+
 <br>
 
-<p align="center">
-  ![Coding GIF](https://media.giphy.com/media/L0Z0q2K9gq0z5jR01N/giphy.gif) </p>
-\[![Activity GIF](https://github-readme-activity-graph.vercel.app/graph?username=HoL0ngg&theme=tokyo-night&hide_border=true)](https://github.com/ashishguptaiitb/github-readme-activity-graph)
-
+[![Hồ Hoàng Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoL0ngg&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠️ Ngôn ngữ và Công cụ của mình
 
-**Đây là các ví dụ. HÃY THAY THẾ BẰNG CÔNG NGHỆ CỦA BẠN:**
+### 🏆 Thành tích Lập trình Thi đấu
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge">
-  
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge">
+  <a href="https://codeforces.com/profile/L0nggg">
+    <img src="https://img.shields.io/badge/Codeforces-L0nggg-informational?logo=codeforces&logoColor=white&style=for-the-badge&color=2495C3">
+  </a>
+  <a href="https://leetcode.com/hohoanglong2508/">
+    <img src="https://img.shields.io/badge/LeetCode-hohoanglong2508-informational?logo=leetcode&logoColor=white&style=for-the-badge&color=FFA116">
+  </a>
+</p>
 
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge">
-  
+**Ngôn ngữ chính (Giải thuật & Web):**
+<p align="left">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+</p>
+
+**Web Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">
 </p>
 
 ---
@@ -55,12 +62,16 @@ Một lập trình viên Full-stack đam mê xây dựng các ứng dụng websi
   </a>
 </p>
 
+### ⚡ Hoạt động của mình
+
+[![Activity GIF](https://github-readme-activity-graph.vercel.app/graph?username=HoL0ngg&theme=tokyo-night&hide_border=true)](https://github.com/ashishguptaiitb/github-readme-activity-graph)
+
 ---
 
 ### 📫 Kết nối với mình
 
 <p align="left">
-<a href="mailto:[hohoanglong2508@gmail.com]" target="_blank">
+<a href="mailto:hohoanglong2508@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
 </a>
 <a href="https://facebook.com/longg.ho.90" target="_blank">
